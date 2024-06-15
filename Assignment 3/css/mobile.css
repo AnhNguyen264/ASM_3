@@ -1,0 +1,63 @@
+@media screen and (max-width: 767px) {
+    .navbar-list {
+        display: block;
+        padding: 20px 0;
+    }
+
+    c .nav-item {
+        padding: 10px
+    }
+
+    .cert-col1,
+    .cert-col2 {
+        display: grid;
+        padding-bottom: initial;
+    }
+
+    .col-border-right {
+        border-right: initial;
+    }
+
+    .cert img {
+        width: 270px;
+        padding-bottom: 6px;
+    }
+
+    .cert {
+        padding: 0 60px 50px 60px;
+    }
+
+    .cert .row1 {
+        border-bottom: 1px solid #d6c08d;
+    }
+
+    .cert-col1,
+    .cert-col2,
+    .cert-col3 {
+        padding-left: 12px;
+        padding-bottom: 50px;
+    }
+
+    .cert-col1 {
+        border-bottom: 1px solid orange;
+
+    }
+
+    .cert-col2 {
+        padding-top: 50px;
+    }
+
+    .project .row .col-4 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    footer p {
+        display: none;
+
+    }
+
+    footer li {
+        padding: 0 6px;
+    }
+}

@@ -1,0 +1,19 @@
+@media screen and (min-width: 1024px) {
+    .card-edu {
+        padding-bottom: 241px;
+    }
+
+    .card-act {
+        padding-bottom: 265px;
+    }
+
+    .card-hob {
+        padding-bottom: 170px;
+
+    }
+
+    .card-lang {
+        padding-bottom: 171px;
+
+    }
+}

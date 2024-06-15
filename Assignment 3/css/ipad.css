@@ -1,0 +1,70 @@
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .bg-col {
+        flex: 50%;
+        max-width: 50%;
+    }
+
+    .card-skill {
+        order: 3;
+    }
+
+    .bg-3 {
+        display: flex;
+    }
+
+    .bg-1 {
+        padding-right: 0;
+    }
+
+    .bg-2 {
+        padding-left: 0;
+    }
+
+    .nav-name {
+        display: none;
+    }
+
+    .cert-col1,
+    .cert-col2 {
+        display: grid;
+        padding-bottom: initial;
+    }
+
+    .cert-col1 {
+        padding-left: 12px;
+        padding-right: 12px;
+
+    }
+
+    .cert-col1-border {
+        border-right: 1px solid orange;
+
+    }
+
+    .cert-col2 {
+        padding-left: 24px;
+    }
+
+    .cert-col2 img,
+    .cert-col3 img {
+        padding-bottom: 20px;
+
+    }
+
+    .cert img {
+        width: 320px;
+    }
+
+    .cert .row1 {
+        padding-bottom: 50px;
+    }
+
+    .col-border-right {
+        border-right: initial;
+    }
+
+    .cert {
+        padding-bottom: 50px;
+    }
+
+}
